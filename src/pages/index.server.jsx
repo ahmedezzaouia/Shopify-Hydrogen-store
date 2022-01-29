@@ -37,7 +37,7 @@ export default function Index({country = {isoCode: 'US'}}) {
     <Layout>
       <div className="relative mb-12">
         {/* <Welcome /> */}
-        <Carousel />
+        {/* <Carousel /> */}
         <div className="bg-white p-12 shadow-xl rounded-xl mb-10">
           {featuredProductsCollection ? (
             <>
